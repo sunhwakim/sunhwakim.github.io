@@ -9,7 +9,6 @@ permalink: /docs/
 ---
 
 hi First 페이지 <BR/>
-없는데? 
 
 ## 그렇구나 
 - 첫번째 페이지 
